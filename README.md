@@ -1,2 +1,2 @@
-# Dog_Classifier
+# Dog Classifier
 Classify dog images according to breed
